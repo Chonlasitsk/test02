@@ -5,8 +5,4 @@ def pppp(x,y):
 x = 2
 y = 2
 print(pppp)
-<<<<<<< HEAD
 print('I am batmans')
-=======
-pirnt("sawaddee")
->>>>>>> main
