@@ -5,4 +5,4 @@ def pppp(x,y):
 x = 2
 y = 2
 print(pppp)
-print("Go")
+pirnt("sawaddee")
