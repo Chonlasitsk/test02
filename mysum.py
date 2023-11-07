@@ -1,2 +1,2 @@
-def mysum(x, y):
-    return x + y
+def mysum(x, y, z):
+    return x + y + z
